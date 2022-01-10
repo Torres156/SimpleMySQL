@@ -1,0 +1,12 @@
+D:\Estudos\SimpleMySQL\SimpleMySQL\bin\Debug\net5.0\SimpleMySQL.deps.json
+D:\Estudos\SimpleMySQL\SimpleMySQL\bin\Debug\net5.0\SimpleMySQL.dll
+D:\Estudos\SimpleMySQL\SimpleMySQL\bin\Debug\net5.0\ref\SimpleMySQL.dll
+D:\Estudos\SimpleMySQL\SimpleMySQL\bin\Debug\net5.0\SimpleMySQL.pdb
+D:\Estudos\SimpleMySQL\SimpleMySQL\obj\Debug\net5.0\SimpleMySQL.csproj.AssemblyReference.cache
+D:\Estudos\SimpleMySQL\SimpleMySQL\obj\Debug\net5.0\SimpleMySQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\SimpleMySQL\SimpleMySQL\obj\Debug\net5.0\SimpleMySQL.AssemblyInfoInputs.cache
+D:\Estudos\SimpleMySQL\SimpleMySQL\obj\Debug\net5.0\SimpleMySQL.AssemblyInfo.cs
+D:\Estudos\SimpleMySQL\SimpleMySQL\obj\Debug\net5.0\SimpleMySQL.csproj.CoreCompileInputs.cache
+D:\Estudos\SimpleMySQL\SimpleMySQL\obj\Debug\net5.0\SimpleMySQL.dll
+D:\Estudos\SimpleMySQL\SimpleMySQL\obj\Debug\net5.0\ref\SimpleMySQL.dll
+D:\Estudos\SimpleMySQL\SimpleMySQL\obj\Debug\net5.0\SimpleMySQL.pdb
